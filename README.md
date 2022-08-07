@@ -13,7 +13,7 @@
 
 - 📖 I’m currently learning ...Microservice Architecture.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...harunaydemir001@gmail.com.
+- 📫 How to reach me ... harunaydemir001@gmail.com.
 
 <hr>
 
