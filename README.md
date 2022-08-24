@@ -12,7 +12,7 @@
 </br>
 
 - 📖 I’m currently learning ...Microservice Architecture.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
+- ❄️ The company I am currently working for ...Innova.
 - 📫 How to reach me ... harunaydemir001@gmail.com.
 
 <hr>
