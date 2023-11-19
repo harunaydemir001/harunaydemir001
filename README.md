@@ -11,7 +11,6 @@
 
 </br>
 
-- 📖 I’m currently learning ...Microservice Architecture.
 - ❄️ The company I am currently working for ...Innova.
 - 📫 How to reach me ... harunaydemir001@gmail.com.
 
